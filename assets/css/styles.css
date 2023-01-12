@@ -490,6 +490,10 @@ body.light-theme{
 .skills__level{
   font-size: var(--tiny-font-size);
 }
+
+#google{
+  font-size: 15px;
+}
 /*=============== SERVICES ===============*/
 .services__container{
   grid-template-columns: repeat(2,1fr);
