@@ -655,18 +655,6 @@ body.light-theme{
   color: var(--body-color);
 }
 
-video{
-  background-color: var(--first-color);
-  color: var(--body-color);
-  transform: translate(.25rem);
-  width: 420px;
-  color: var(--first-color);
-  font-size: var(--small-font-size);
-  display: flex;
-  align-items: center;
-  column-gap: .25rem;
-
-}
 
 /*=============== TESTIMONIAL ===============*/
 .testimonial__card{
