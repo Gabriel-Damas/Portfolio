@@ -655,6 +655,19 @@ body.light-theme{
   color: var(--body-color);
 }
 
+video{
+  background-color: var(--first-color);
+  color: var(--body-color);
+  transform: translate(.25rem);
+  width: 420px;
+  color: var(--first-color);
+  font-size: var(--small-font-size);
+  display: flex;
+  align-items: center;
+  column-gap: .25rem;
+
+}
+
 /*=============== TESTIMONIAL ===============*/
 .testimonial__card{
   background-color: var(--container-color);
@@ -922,7 +935,6 @@ body.light-theme{
   .work__img{
     width: 295px;
   }
-  
   .contact__info{
     grid-template-columns: 300px;
     justify-content: center;
