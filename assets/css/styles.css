@@ -922,10 +922,7 @@ body.light-theme{
   .work__img{
     width: 295px;
   }
-
-  video{
-    width: 295px;
-  }
+  
   .contact__info{
     grid-template-columns: 300px;
     justify-content: center;
