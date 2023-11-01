@@ -15,7 +15,7 @@
   --title-color: hsl(var(--second-hue), 15%, 95%);
   --text-color: hsl(var(--second-hue), 8%, 75%);
   --text-color-light: hsl(var(--second-hue), 4%, 55%);
-  --body-color: hsl(var(--second-hue), 48%, 8%);
+  --body-color: hsl(var(--second-hue), 48%, 8%); 
   --container-color: hsl(var(--second-hue), 32%, 12%);
   --body-font: 'Poppins', sans-serif;
   --biggest-font-size: 1.75rem;
