@@ -303,8 +303,8 @@ body.light-theme{
   width: 190px;
 }
 /* --------------------------------------- */
-.home__handle:hover{
-  box-shadow:   1px 4px 10px #320a72;
+.home__handle{
+  box-shadow:   1px 5px 13px #320a72;
 }
 .home__handle{
   justify-self: center;
